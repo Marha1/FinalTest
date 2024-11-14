@@ -1,0 +1,12 @@
+C:\Users\Hi-Tech\RiderProjects\FinalTest\FinalTestDomain\bin\Debug\net8.0\FinalTestDomain.deps.json
+C:\Users\Hi-Tech\RiderProjects\FinalTest\FinalTestDomain\bin\Debug\net8.0\FinalTestDomain.dll
+C:\Users\Hi-Tech\RiderProjects\FinalTest\FinalTestDomain\bin\Debug\net8.0\FinalTestDomain.pdb
+C:\Users\Hi-Tech\RiderProjects\FinalTest\FinalTestDomain\obj\Debug\net8.0\FinalTestDomain.csproj.AssemblyReference.cache
+C:\Users\Hi-Tech\RiderProjects\FinalTest\FinalTestDomain\obj\Debug\net8.0\FinalTestDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hi-Tech\RiderProjects\FinalTest\FinalTestDomain\obj\Debug\net8.0\FinalTestDomain.AssemblyInfoInputs.cache
+C:\Users\Hi-Tech\RiderProjects\FinalTest\FinalTestDomain\obj\Debug\net8.0\FinalTestDomain.AssemblyInfo.cs
+C:\Users\Hi-Tech\RiderProjects\FinalTest\FinalTestDomain\obj\Debug\net8.0\FinalTestDomain.csproj.CoreCompileInputs.cache
+C:\Users\Hi-Tech\RiderProjects\FinalTest\FinalTestDomain\obj\Debug\net8.0\FinalTestDomain.dll
+C:\Users\Hi-Tech\RiderProjects\FinalTest\FinalTestDomain\obj\Debug\net8.0\refint\FinalTestDomain.dll
+C:\Users\Hi-Tech\RiderProjects\FinalTest\FinalTestDomain\obj\Debug\net8.0\FinalTestDomain.pdb
+C:\Users\Hi-Tech\RiderProjects\FinalTest\FinalTestDomain\obj\Debug\net8.0\ref\FinalTestDomain.dll
